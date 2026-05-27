@@ -22,27 +22,6 @@
       "botNumbers": [
         "6285655825264"
       ]
-    },
-    {
-      "name": "Admin Bella",
-      "username": "bella_admin",
-      "password": "securepassword123",
-      "role": "Owner",
-      "plan": "Enterprise",
-      "status": "VIP",
-      "expiredAt": "PERMANENT",
-      "maxInstances": 5,
-      "banned": false,
-      "banReason": "",
-      "customPrefix": "",
-      "apiKeys": {
-        "openai": "sk-proj-xxxxxxxxxxxxxxxxxxxx",
-        "gemini": "AIzaSyxxxxxxxxxxxxxxxxxxxx"
-      },
-      "botNumbers": [
-        "6281234567890",
-        "6289999999999"
-      ]
     }
   ]
 }
