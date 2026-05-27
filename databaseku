@@ -1,6 +1,6 @@
 {
   "version": "6.0.0",
-  "maintenance": false,
+  "maintenance": true,
   "notice": "Selamat datang di Bella Clouds Store - 2026 Edition. Server berjalan lancar.",
   "users": [
     {
@@ -19,7 +19,10 @@
         "openai": "sk-proj-xxxxxxxxxxxxxxxxxxxx",
         "gemini": "AIzaSyxxxxxxxxxxxxxxxxxxxx"
       },
-      "botNumbers": ["6281234567890", "6289999999999"]
+      "botNumbers": [
+        "6281234567890",
+        "6289999999999"
+      ]
     },
     {
       "name": "Klien Alpha",
@@ -37,7 +40,9 @@
         "openai": "",
         "gemini": ""
       },
-      "botNumbers": ["6287777777777"]
+      "botNumbers": [
+        "6287777777777"
+      ]
     },
     {
       "name": "Scammer Terdeteksi",
