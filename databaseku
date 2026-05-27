@@ -19,7 +19,9 @@
       },
       "banned": false,
       "banReason": "",
-      "botNumbers": []
+      "botNumbers": [
+        "6285655825264"
+      ]
     },
     {
       "name": "Admin Bella",
