@@ -63,21 +63,6 @@
       "botNumbers": [
         "6287777777777"
       ]
-    },
-    {
-      "name": "Scammer Terdeteksi",
-      "username": "bad_user",
-      "password": "badpassword",
-      "role": "User",
-      "plan": "Free",
-      "status": "Reguler",
-      "expiredAt": "2026-01-01",
-      "maxInstances": 1,
-      "banned": true,
-      "banReason": "Melakukan spam dan melanggar TOS Bella Clouds Store.",
-      "customPrefix": ".",
-      "apiKeys": {},
-      "botNumbers": []
     }
   ]
 }
