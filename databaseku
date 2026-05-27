@@ -43,26 +43,6 @@
         "6281234567890",
         "6289999999999"
       ]
-    },
-    {
-      "name": "Klien Alpha",
-      "username": "user_alpha",
-      "password": "passalpha123",
-      "role": "User",
-      "plan": "Pro",
-      "status": "Premium",
-      "expiredAt": "2026-12-31",
-      "maxInstances": 1,
-      "banned": false,
-      "banReason": "",
-      "customPrefix": "!",
-      "apiKeys": {
-        "openai": "",
-        "gemini": ""
-      },
-      "botNumbers": [
-        "6287777777777"
-      ]
     }
   ]
 }
