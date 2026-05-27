@@ -1,0 +1,58 @@
+{
+  "version": "6.0.0",
+  "maintenance": false,
+  "notice": "Selamat datang di Bella Clouds Store - 2026 Edition. Server berjalan lancar.",
+  "users": [
+    {
+      "name": "Admin Bella",
+      "username": "bella_admin",
+      "password": "securepassword123",
+      "role": "Owner",
+      "plan": "Enterprise",
+      "status": "VIP",
+      "expiredAt": "PERMANENT",
+      "maxInstances": 5,
+      "banned": false,
+      "banReason": "",
+      "customPrefix": "",
+      "apiKeys": {
+        "openai": "sk-proj-xxxxxxxxxxxxxxxxxxxx",
+        "gemini": "AIzaSyxxxxxxxxxxxxxxxxxxxx"
+      },
+      "botNumbers": ["6281234567890", "6289999999999"]
+    },
+    {
+      "name": "Klien Alpha",
+      "username": "user_alpha",
+      "password": "passalpha123",
+      "role": "User",
+      "plan": "Pro",
+      "status": "Premium",
+      "expiredAt": "2026-12-31",
+      "maxInstances": 1,
+      "banned": false,
+      "banReason": "",
+      "customPrefix": "!",
+      "apiKeys": {
+        "openai": "",
+        "gemini": ""
+      },
+      "botNumbers": ["6287777777777"]
+    },
+    {
+      "name": "Scammer Terdeteksi",
+      "username": "bad_user",
+      "password": "badpassword",
+      "role": "User",
+      "plan": "Free",
+      "status": "Reguler",
+      "expiredAt": "2026-01-01",
+      "maxInstances": 1,
+      "banned": true,
+      "banReason": "Melakukan spam dan melanggar TOS Bella Clouds Store.",
+      "customPrefix": ".",
+      "apiKeys": {},
+      "botNumbers": []
+    }
+  ]
+}
