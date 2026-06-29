@@ -4,6 +4,24 @@
   "notice": "Selamat datang di Bella Clouds Store - 2026 Edition. Server berjalan lancar.",
   "users": [
     {
+      "name": "Adl",
+      "username": "Adl",
+      "password": "12345",
+      "role": "Admin",
+      "plan": "Free",
+      "status": "Aktif",
+      "expiredAt": "PERMANENT",
+      "maxInstances": 999,
+      "customPrefix": ".",
+      "apiKeys": {
+        "openai": "",
+        "gemini": ""
+      },
+      "banned": false,
+      "banReason": "",
+      "botNumbers": []
+    },
+    {
       "name": "Edo",
       "username": "edoaja",
       "password": "edoaja",
